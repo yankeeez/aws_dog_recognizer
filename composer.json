@@ -1,0 +1,9 @@
+{
+    "require": {
+        "bref/bref": "^0.5.25",
+        "aws/aws-sdk-php": "^3.141",
+        "ext-json": "*",
+        "phpmailer/phpmailer": "^6.1",
+        "vlucas/phpdotenv": "^5.0"
+    }
+}
